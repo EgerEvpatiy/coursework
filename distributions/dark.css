@@ -1,0 +1,22 @@
+a, body {
+    background-color: darkslategray;
+    color: white;
+}
+
+.fakeLink {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+}
